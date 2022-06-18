@@ -1,0 +1,2 @@
+# fearlessIDR
+The identity recognition system is implanted on the surrounding camera to detect and monitor the surrounding area around the house, representing the first protection layer. It has four  abilities: emotion detection, face recognition, dangerous weapons recognition, and matrix  barcode detection. The system is connected to the real-time database to send and receive signals  or images from the user interface. 
